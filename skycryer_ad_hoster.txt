@@ -1,7 +1,7 @@
 !
 ! Title: Skycryer's Ad Blocklist
 ! Description: Blocks German Ad content.
-! Version: 1.0.0.0
+! Version: 1.0.0.1
 ! Last modified: 2024-09-17T04:07:00.817Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
