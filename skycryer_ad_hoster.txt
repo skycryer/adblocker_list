@@ -21,3 +21,5 @@
 ||googlesyndication.com^
 ||doubleclick.net^
 ||d3sv.net^
+||adition.com^
+||criteo.com^
