@@ -1,0 +1,23 @@
+!
+! Title: Skycryer's Ad Blocklist
+! Description: Blocks German Ad content.
+! Version: 1.0.0.0
+! Last modified: 2024-09-17T04:07:00.817Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.26
+!
+!
+! Source name: HaGeZi's Gambling Blocklist
+! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt
+!
+! Title: Skycryer Ad Block List
+! Description: Blocks german ad content.
+! Expires: 7 days
+! Last modified: 16 Sep 2024 22:50 UTC
+! Version: 2024.0916.2250.07
+! Syntax: AdBlock
+! Number of entries: 382520
+!
+||googlesyndication.com^
+||doubleclick.net^
+||d3sv.net^
