@@ -8,7 +8,7 @@
 !
 !
 ! Source name: HaGeZi's Gambling Blocklist
-! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt
+! Source: https://github.com/skycryer/adblocker_list/blob/main/skycryer_ad_hoster.txt
 !
 ! Title: Skycryer Ad Block List
 ! Description: Blocks german ad content.
