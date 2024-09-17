@@ -2,7 +2,7 @@
 ! Title: Skycryer's Ad Blocklist
 ! Description: Blocks German Ad content.
 ! Version: 1.0.0.1
-! Last modified: 2024-09-17T04:07:00.817Z
+! Last modified: 2024-09-17T08:41:00.817Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -13,7 +13,7 @@
 ! Title: Skycryer Ad Block List
 ! Description: Blocks german ad content.
 ! Expires: 7 days
-! Last modified: 16 Sep 2024 22:50 UTC
+! Last modified: 17 Sep 2024 08:41 UTC
 ! Version: 2024.0916.2250.07
 ! Syntax: AdBlock
 ! Number of entries: 382520
